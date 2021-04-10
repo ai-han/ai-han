@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ai-han
-- 👀 I’m interested in AI applied in logistics processesin for industries and also langues scripting.
+- 👀 I’m interested in AI applied in logistics processesing for industries and also langues scripting.
 - 🌱 I’m currently learning AI, Python and related tools.
-- 💞️ I’m looking to collaborate on plannification and scheduling optimization.
+- 💞️ I’m looking to collaborate on inventory, plannification & scheduling optimization.
 - 📫 How to reach me please ask me whenever needed.
 
 <!---
